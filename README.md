@@ -48,12 +48,10 @@ ML_Algo/
 │
 ├── README.md                          
 ├── LICENSE                            
-├── Linear_Regression/                
-├── Logistic_Regression/              # Coming Soon
-│   
-│
+├── Linear_Regression               
+├── Logistic_Regression            
 ├── Decision_Trees/                    # Coming Soon
-│  
+│   └── ...
 │
 ├── Random_Forest/                     # Coming Soon
 │   └── ...
@@ -90,12 +88,12 @@ Each algorithm folder contains:
 | Algorithm | Type | Status | Use Cases |
 |-----------|------|--------|-----------|
 | [Linear Regression](Linear_Regression/) | Supervised (Regression) | ✅ Complete | Price prediction, trend analysis, forecasting |
+| [Logistic Regression](Logistic_Regression/) | Supervised (Regression) | ✅ Complete | Email Spam Detection, Disease Diagnosis |
 
 ### 🚧 Coming Soon
 
 | Algorithm | Type | Planned |
 |-----------|------|---------|
-| Logistic Regression | Supervised (Classification) | 🔜 |
 | Decision Trees | Supervised | 🔜 |
 | Random Forest | Supervised (Ensemble) | 🔜 |
 | Support Vector Machines (SVM) | Supervised | 🔜 |
@@ -304,7 +302,7 @@ If you find this repository helpful, please consider giving it a ⭐ star!
 ## 🗺️ Roadmap
 
 - [x] Linear Regression (Simple & Multiple)
-- [ ] Logistic Regression
+- [x] Logistic Regression
 - [ ] Decision Trees
 - [ ] Random Forest
 - [ ] Support Vector Machines
@@ -332,4 +330,4 @@ Have questions or suggestions? Feel free to:
 
 **Happy Learning! 🚀📊🤖**
 
-*Last Updated: October 21, 2025*
+*Last Updated: October 26, 2025*
